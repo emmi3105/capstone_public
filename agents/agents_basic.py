@@ -1,5 +1,5 @@
 ### agent_basic.py
-### Define the RandomAgent, GreedyAgent, and DQNAgent classes
+### Define the RandomAgent, GreedyAgent, and DQNAgent classes for the basic model
 
 import random
 import numpy as np

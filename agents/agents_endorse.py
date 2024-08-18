@@ -1,5 +1,5 @@
 ### agent_endorse.py
-### Define the RandomAgent, GreedyAgent, and DQNAgent classes
+### Define the RandomAgentEndorse, GreedyAgentEndorse, and DQNAgentEndorse classes for the endorse model
 
 import random
 import numpy as np
@@ -14,7 +14,7 @@ from collections import namedtuple
 
 # Random Agent Class
 
-class RandomAgent:
+class RandomAgentEndorse:
     def __init__(self):
         pass
 
@@ -26,7 +26,7 @@ class RandomAgent:
 
 # Greedy Agent Class
 
-class GreedyAgent:
+class GreedyAgentEndorse:
     def __init__(self):
         pass
 
@@ -100,7 +100,7 @@ class ReplayBuffer:
 Transition = namedtuple('Transition', ('state', 'action', 'reward', 'next_state', 'done'))
 
 # DQNAgent Class. The DQNAgent class is the main class that defines the DQN agent
-class DQNAgent:
+class DQNAgentEndorse:
     def __init__(self, state_size, action_size, env, batch_size, gamma, epsilon, epsilon_min, epsilon_decay, learning_rate):
         self.state_size = state_size
         self.action_size = action_size

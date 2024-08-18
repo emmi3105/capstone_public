@@ -1,0 +1,5 @@
+,agent,running_seed,sample_seed,num_jobs,num_candidates,reward,sampled_men_percent,hired_men_percent,data,debiased
+0,Greedy,,1,10,100,-211399,0.97,0.8888888888888888,initial_data,No
+1,Greedy,,1,20,100,-658349,0.97,0.8947368421052632,initial_data,No
+2,Greedy,,1,50,100,-2187552,0.97,0.926829268292683,initial_data,No
+3,Greedy,,1,100,100,-3932078,0.97,0.9516129032258065,initial_data,No

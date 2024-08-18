@@ -1,0 +1,4 @@
+,agent,running_seed,sample_seed,num_jobs,num_candidates,reward,sampled_men_percent,hired_men_percent,hired_women_count,hired_men_count,data,debiased
+0,DQN,1,1,10,100,-147909,0.83,0.6666666666666666,3,6,normalised_data,No
+1,DQN,1,1,20,100,-382606,0.83,0.7777777777777778,4,14,normalised_data,No
+2,DQN,1,1,50,100,-1700248,0.83,0.825,7,33,normalised_data,No
