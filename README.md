@@ -39,6 +39,8 @@ In recent years, companies have increasingly deployed artificial intelligence (A
     │   ├── environment_endorse.py
     ├── experiments
         ├── episodes_initial_data
+        │   ├── DQN_basic
+        │   ├── DQN_endorse
         │   ├── DQN_Episode_initial.ipynb
         │   ├── dqn_loss_initial.csv
         │   ├── dqn_results_initial_endorse.csv
@@ -46,6 +48,8 @@ In recent years, companies have increasingly deployed artificial intelligence (A
         │   ├── Greedy_Episode_initial.ipynb
         │   ├── greedy_results_initial.csv
         ├── episodes_parity_data
+        │   ├── DQN_basic
+        │   ├── DQN_endorse
         │   ├── DQN_Episode_parity.ipynb
         │   ├── dqn_loss_parity.csv
         │   ├── dqn_results_parity_endorse.csv
@@ -53,6 +57,8 @@ In recent years, companies have increasingly deployed artificial intelligence (A
         │   ├── Greedy_Episode_parity.ipynb
         │   ├── greedy_results_parity.csv
         ├── episodes_proportional_data
+        │   ├── DQN_basic
+        │   ├── DQN_endorse
         │   ├── DQN_Episode_proportional.ipynb
         │   ├── dqn_loss_proportional.csv
         │   ├── dqn_results_proportional_endorse.csv
@@ -75,9 +81,17 @@ In recent years, companies have increasingly deployed artificial intelligence (A
         │   ├── DQN_optimisation
         │   ├── optimisation_DQN_proportional.iypnb
         │   ├── results_parameters_dqn_proportional.csv
-    ├── README.md
-    └── tools
+    ├── plots
+        ├── binary_prerequisites_by_gender.png
+        ├── degree_prerequisites_by_gender.png
+        ├── gender_distribution_initial.png
+        ├── gender_distribution_three_datasets.png
+        ├── previous_pay_distribution.png
+        ├── prof_software_exp_distribution.png
+    ├── tools
         │   ├── tools.py
+    └── README.md
+
 ```
 
 ## Code 
