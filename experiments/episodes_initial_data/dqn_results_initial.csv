@@ -1,4 +1,4 @@
-,agent,running_seed,sample_seed,num_jobs,num_candidates,reward,sampled_men_percent,hired_men_percent,hired_women_count,hired_men_count,data,debiased
+,agent,running_seed,sample_seed,num_jobs,num_candidates,reward,sampled_men_percent,hired_men_percent,hired_women_count,hired_men_count,data,endorse
 0,DQN,1,1,10,100,-204513,0.97,0.8888888888888888,1,8,initial_data,No
 1,DQN,1,1,20,100,-651257,0.97,0.8947368421052632,2,17,initial_data,No
 2,DQN,1,1,50,100,-2099590,0.97,0.925,3,37,initial_data,No
